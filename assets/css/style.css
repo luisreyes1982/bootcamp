@@ -1,0 +1,42 @@
+/* Scroll Behavior */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Body */
+body {
+    font-family: "Open Sans";
+    background: black;
+    color: white;
+}
+
+/* Navbar */
+.navbar {
+    background-color: transparent;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+.navbar-brand {
+    font-family: "Oswald";
+    font-size: 30px;
+    font-weight: 400;
+}
+
+/* Imagenes Cartas */
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+/* Footer */
+#Footer h1 {
+    font-family: "Oswald";
+}
+
+#Footer a {
+    color: white;
+    text-decoration: none;
+}
