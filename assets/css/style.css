@@ -31,6 +31,13 @@ body {
     object-fit: cover;
 }
 
+/* Contacto Texto Y Boton*/
+.contact-frame{
+    height: 500px;
+    color: black;
+    padding-top: 200px;
+}
+
 /* Footer */
 #Footer h1 {
     font-family: "Oswald";
